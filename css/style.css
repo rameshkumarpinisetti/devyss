@@ -395,7 +395,7 @@
     .sticky-top.navbar-light {
         position: fixed;
         /* background: var(--bs-light); */
-        background-image: linear-gradient(to right, #ECE9E6 0%, #FFFFFF  51%, #ECE9E6  100%);
+        background-image: linear-gradient(to right, #FFFFFF 0%, #FFFFFF  51%, #FFFFFF  100%);
         transition: 0.5s;
         background-size: 200% auto;
     }
@@ -489,7 +489,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: linear-gradient(rgb(0 0 0 / 50%), rgb(0 0 0 / 20%));
+    background: linear-gradient(#1f05e654, #19875470);
     background-size: cover;
 }
 
